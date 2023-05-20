@@ -1,2 +1,2 @@
-# super-duper-adventure
+# super coder
 python coding
